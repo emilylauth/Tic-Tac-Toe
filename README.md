@@ -13,6 +13,8 @@
 ## Roadmap
 
 I may want to make style changes in the future to make it mimic a more minimalist, traditional tic-tac-toe board. I would also like to either implement a "reset board" button, or have a "clear board" button that appears after a winner is declared.
+
+Addition: I would also like to highlight the row of the winner at the end of the game to call attention to it and subsequently the end of the game.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
